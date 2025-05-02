@@ -1,4 +1,4 @@
-# Disk Manager Version 001
+# Disk Division Pro Version 0.2 BETA
 
 A lightweight, GUI-based tool for detecting, displaying, and managing connected disks.
 
