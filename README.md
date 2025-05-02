@@ -36,3 +36,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+If you'd like to contribute or share feedback, feel free to reach out via email at coding72d@gmail.com.
