@@ -8,3 +8,4 @@ src/audios/*
 video_info.json
 Pyinstaller_Instruction.txt
 /*.json
+src/databases/database_disks.json
