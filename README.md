@@ -6,7 +6,7 @@ This project is built with Python using the `customtkinter` library to provide a
 
 ## ✨ Features
 
-Real-time detection of newly connected or removed disks
+Real-time detection of newly connected or removed disks.
 
 Simple interface for displaying file metadata (like filename and path)
 
