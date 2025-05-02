@@ -18,6 +18,7 @@ Animated visual feedback on state changes
 
 - Python 3.10+
 - See [`requirements.txt`](./requirements.txt) for dependencies
+Note: Some dependencies may not be necessary for the software. If you're familiar with the requirements, feel free to skip and install only the ones prompted by the log.
 
 ## 🚀 Getting Started
 
