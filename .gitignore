@@ -1,0 +1,10 @@
+.env
+.vscode
+*__pycache__
+/build/
+/dist/
+src/videos/*
+src/audios/*
+video_info.json
+Pyinstaller_Instruction.txt
+/*.json
